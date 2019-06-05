@@ -65,8 +65,5 @@ Secondary features:
 That's it! Works well. I could have created a few more methods for the purposes
 of cleanliness and order. C'est la vie.
 
-For a full report on the 17 hours it took to program this game... here's an
-article on Medium (also my first tech-blog attempt):
-
 All comments, questions, concerns, suggestions welcome. Looking to collaborate
 on projects so reach out if you want to make something cool.  
