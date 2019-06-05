@@ -1,9 +1,8 @@
-#TIC-TAC-TOE
+# TIC-TAC-TOE
 
 CLI Program –– Tic Tac Toe vs. Computer
 
 This is my first computer program created from scratch without direction.
-It's the game we all know and love:
 
 The rules are what they've always been. Strike three positions in a row before your
 opponent. In the case of this game, your opponent is the computer.
