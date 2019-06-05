@@ -5,7 +5,7 @@ CLI Program –– Tic Tac Toe vs. Computer
 This is my first computer program created from scratch without direction.
 
 The rules are what they've always been. Strike three positions in a row before your
-opponent. In the case of this game, your opponent is the computer.
+opponent. In this version, your opponent is the computer.
 
 My primary goal was to create an algorithm that responds to the
 user's moves and beats the user every time. My secondary goal was to program a
