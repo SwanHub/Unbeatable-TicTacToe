@@ -2,13 +2,13 @@
 
 CLI Program –– Tic Tac Toe vs. Computer
 
-This is my first computer program created from scratch without direction.
+My first computer program created from scratch.
 
 The rules are what they've always been. Strike three positions in a row before your
 opponent. In this version, your opponent is the computer.
 
 My primary goal was to create an algorithm that responds to the
-user's moves and beats the user every time. My secondary goal was to program a
+user's moves and can't lose. My secondary goal was to program a
 slew of features that would give the game some personality.
 
 Steps to complete the primary goal:
@@ -56,14 +56,21 @@ Steps to complete the primary goal:
 Secondary features:
   - Ask who wants to go first after each game.
   - Add an option to allow a random number generator to determine first move.
-  - Easy vs Hard mode (Easy mode = cpu chooses a random move)
+  - Easy/Medium/Hard mode (Easy mode = cpu chooses a random move)
   - A catalogue of 'given' nicknames the cpu offers the gamer at the start.
   - Keep track of record (w/l/t) throughout the program.
   - A delay function to make it seem like the system is thinking.
   - During delay: computer chirps the gamer.
 
-That's it! Works well. I could have created a few more methods for the purposes
-of cleanliness and order. C'est la vie.
+That's it! Works well. 
 
-All comments, questions, concerns, suggestions welcome. Looking to collaborate
-on projects so reach out if you want to make something cool.  
+# ISSUES:
+
+While I successfully created a game which keeps the user from winning, I also
+unfortunately created a game which doesn't win unless by user mistake. The 
+vast majority of games will end in a 'tie'. If I revisit this game, I'll
+attempt to create a more offensive-minded algorithm, one which will actually
+try to trick you and set you up to lose. 
+
+I would also continue to clean it and pare the code down. With a little more
+concerted effort on D.R.Y., I could get it down another hundred lines. 
