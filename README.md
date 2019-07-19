@@ -74,3 +74,5 @@ try to trick you and set you up to lose.
 
 I would also continue to clean it and pare the code down. With a little more
 concerted effort on D.R.Y., I could get it down another hundred lines. 
+
+Medium article associated: https://medium.com/@jdprince555/ruby-cli-tic-tac-toe-b1a067807e61
