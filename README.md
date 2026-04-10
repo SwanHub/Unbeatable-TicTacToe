@@ -24,8 +24,6 @@ The goal was to write a game where CPU never loses.
 
 That's it! Works well. Can't beat it. Auto-blocker.
 
-# ISSUES:
-
-We succeeded in making the CPU unbeatable, but most games end in Tie. Version 2 would be embedding a more opportunistic scoring system that optimizes for the CPU winning, instead of simply the human gamer NOT winning.
-
-Medium article associated: https://medium.com/@jdprince555/ruby-cli-tic-tac-toe-b1a067807e61
+**Future work**
+- Would like to put this game out on the web.
+- Improve the algorithm to make the CPU more opportunistic toward winning. It exclusively keeps the gamer from winning, so almost all games end in a tie.
