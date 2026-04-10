@@ -1,4 +1,4 @@
-# UNBEATABLE TIC-TAC-TOE
+# Unbeatable Tic-Tac-Toe
 
 This was the first piece of usable software I'd written.
 
