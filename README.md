@@ -4,16 +4,11 @@ This was the first piece of usable software I'd written.
 
 It's a CLI game of Tic Tac Toe vs. the CPU.
 
-The goal was to write the game such that the CPU never loses.
-
-**How it avoids losing**
-- Hard code the only 8 winning combinations
-- Keep track of "available positions"
-- CPU cross references those two lists to score its best move
+The goal was to write a game where CPU never loses.
 
 **CPU's decision-making logic**
 1. Iterate through each available position on the board.
-2. At each point in the iteration, simulate the CPU selecting that position
+2. At each point in the iteration, simulate selecting that position
 3. Based on that selection, create a second iteration of all moves the human gamer could then make
 4. For each of those possible human gamer moves, score the availability of a row of 3 
 5. Ensure CPU DOES NOT select a position that leads to the gamer having a row of 3 available 
